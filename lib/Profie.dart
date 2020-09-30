@@ -26,7 +26,7 @@ class _ProfileState extends State<Profile> {
                   if (!snapshot.hasData) {
                     return SpinKitThreeBounce(
                       size: 40,
-                      color: Colors.white,
+                      color: Colors.black,
                     );
                   }
                   var user = snapshot.data;

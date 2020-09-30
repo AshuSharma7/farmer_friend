@@ -158,7 +158,7 @@ class _ChatState extends State<Chat> {
                                       margin: EdgeInsets.all(10.0),
                                       padding: EdgeInsets.all(2.0),
                                       decoration: BoxDecoration(
-                                          color: Colors.white,
+                                          color: Colors.black,
                                           borderRadius:
                                               BorderRadius.circular(3.0)),
                                       child: Text(
